@@ -1,6 +1,6 @@
 # Hola Tú, I'm Cynthia 👋
 
-**AI Engineer** who builds AI-powered products and automations. Passionate about exploring the intersection of technology and human intent wile sharing my journey with others. I like to question how things and life work 👀
+**AI Engineer** who builds AI-powered products and automations. Passionate about exploring the intersection of technology, art and human intent wile sharing my journey with others. I like to question how things and life work 👀
 
 🔍 **I'm looking for full-time AI engineering roles**
 *  Graduating December 2027, based in Toronto, open to Remote/On Site/ Hybrid
@@ -44,8 +44,7 @@ I'm always open to collaborating on innovative open-source projects, discussing 
 
 ---
 
-### ⚡ Fun Fact
-`while (true) {
-    learn();
-    discoverMoreUnknowns();
-}`
+### ⚡ A bit about me
+*  I love animals and spending time in nature.
+*  I could talk about philosophy for hours.
+*  **Some of my hobbies:** Reading, playing squash, and painting 
