@@ -1,7 +1,7 @@
 # Hola Tú, I'm Cynthia 👋
 
 **AI Creative Engineer** && **Content Creator** who builds AI-powered products, interactive web experiences, and automations. 
-I loveee exploring the intersection of technology, art and human intent wile sharing my journey with others. I like to question how things (and life!) work 👀
+I loveee exploring the intersection of technology, art and human intent while sharing my journey with others. I like to question how things (and life!) work 👀
 
 🔍 **Beign honest, I'm looking for full-time AI engineering roles.**
 
