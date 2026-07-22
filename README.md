@@ -5,7 +5,7 @@ I loveee exploring the intersection of technology, art and human intent while sh
 
 🔍 **Beign honest, I'm looking for full-time AI engineering roles.**
 
-    I can't believe I'm graduating but yeah, it's happening on -> December 2026. I'm open to Remote/On Site/ Hybrid!
+    I can't believe I'm graduating but yeah, it's happening on -> December 2026. I'm open to work Remote/On Site/Hybrid!
   
 Portfolio: https://cynthia-salazar.vercel.app/
 
