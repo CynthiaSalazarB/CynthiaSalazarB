@@ -1,6 +1,6 @@
 # Hola Tú, I'm Cynthia 👋
 
-**AI Creative Engineer** anddd **Content Creator** who builds AI-powered products, interactive web experiences, and localized automations. 
+**AI Creative Engineer** && **Content Creator** who builds AI-powered products, interactive web experiences, and localized automations. 
 I loveee exploring the intersection of technology, art and human intent wile sharing my journey with others. I like to question how things (and life!) work 👀
 
 🔍 **Beign honest, I'm looking for full-time AI engineering roles.**
@@ -16,7 +16,7 @@ Portfolio: https://cynthia-salazar.vercel.app/
 *  **Instagram:** @Cynthias.dev (https://www.instagram.com/cynthias.dev/)
 * **LinkedIn:** Cynthia Salazar (https://www.linkedin.com/in/cynthia-salazarb/)
 
-> 💡 *Always open to collaborating on projects, discussing system design (or human existence), and geeking out over creative coding!*
+> 💡 *Always open to collaborating, discussing system design (or human existence), and business strategy!*
 
 ---
 
