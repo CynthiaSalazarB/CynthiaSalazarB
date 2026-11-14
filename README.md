@@ -1,59 +1,51 @@
 # Hola Tú, I'm Cynthia 👋
 
-**AI Creative Engineer** && **Content Creator** who builds AI-powered products, interactive web experiences, and automations. 
-I loveee exploring the intersection of technology, art and human intent while sharing my journey with others. I like to question how things (and life!) work 👀
+**Full Stack & AI Engineer** building LLM applications in TypeScript and Python, from tool-calling agents to the evals that check them.
+I like to question how things (and life!) work 👀
 
-🔍 **Beign honest, I'm looking for full-time AI engineering roles.**
-
-    I can't believe I'm graduating but yeah, it's happening on -> December 2026. I'm open to work Remote/On Site/Hybrid!
-  
-Portfolio: https://cynthia-salazar.vercel.app/
+🎓 Graduating from Seneca Polytechnic in December 2026
+💼 Open to **Full Stack and AI Engineer roles** from January 2027 · Toronto · Remote, hybrid or on-site
+🌐 [Portfolio](https://cynthia-salazar.vercel.app) · [LinkedIn](https://www.linkedin.com/in/cynthia-salazarb/) · [Instagram](https://www.instagram.com/cynthias.dev/)
 
 ---
 
-## 📹 Check Out My Content & Get in Touch!
+## 🚀 Featured Projects
 
-*  **Instagram:** @Cynthias.dev (https://www.instagram.com/cynthias.dev/)
-* **LinkedIn:** Cynthia Salazar (https://www.linkedin.com/in/cynthia-salazarb/)
+**[Lumente](https://github.com/CynthiaSalazarB/lumente)** · [Live](https://lumente.expo.app)
+An AI app that fosters questioning and curiosity in programming students. I led the team of 3, and we reached the Top 10 of 50+ teams at the Build North hackathon. Six Claude agents run under a deterministic state machine, with Zod contracts and live-model evals.
+`TypeScript` `React Native` `Expo` `Claude`
 
-> 💡 *Always open to collaborating, discussing system design (or human existence), and business strategy!*
+**[Idea Angles Pipeline](https://github.com/CynthiaSalazarB/idea-angles-pipeline)**
+A multi-stage LLM pipeline I built solo over three months. It uses a blackboard architecture with enforced layering and idempotent, independently runnable stages, and it runs on a schedule across GitHub Actions and a GCP VM. It has 32 tests and a written record of what it deliberately does not do.
+`Python` `SQLite` `GitHub Actions` `GCP`
+
+**[Message Notification Router](https://github.com/CynthiaSalazarB/message-notification-router)**
+An LLM-powered system that routes messages to notify, digest or mute. Rules handle the clear cases and Gemini handles the ambiguous ones. I wrote the eval harness before tuning, and accuracy went from 86.7% to 93.3%.
+`Python` `Gemini` `RAG` `Evals`
+
+**[Mental Click](https://github.com/CynthiaSalazarB/mental-click)** · [Live](https://mental-click.vercel.app)
+An AI study tool that turns your own notes into study cards. The model has to quote its source, and the server checks every quote against the notes.
+`Full stack` `Prompt engineering` `Security`
 
 ---
 
-## 🛠️ I'm Currently Working On:
-*  **AI & Automation** 
-*  **System Architecture & Design Patterns** 
+## 🧰 Stack
 
----
+**Languages:** TypeScript · JavaScript · Python · Java · C++
 
-## 🧰 My Stack:
+**Frontend:** React · Next.js · React Native · Expo · Tailwind CSS · GSAP
 
-### 🛠 Languages
-`JavaScript` · `TypeScript` · `Python` · `Java` · `C++` · `C`
+**Backend:** Node.js · Express · FastAPI · PostgreSQL · MongoDB · Supabase
 
-### 💻 Front-End & Creative Design
-*   **Frameworks:** React, React Native, Next.js, Vite
-*   **Styling & Motion:** Tailwind CSS, GSAP, p5.js, HTML Canvas
+**AI:** LLM APIs · AI agents · tool calling · RAG · evals · prompt engineering
 
-### ⚙️ Back-End & Automation
-*   **Languages & Environments:** Node.js, Python
-*   **AI & Data:** LLM APIs · prompting · RAG · agentic workflows · orchestration
-*   **Automation:** Python · pipelines · scheduled cloud jobs · API/webhook integrations
-*   **Databases:** Oracle, MongoDB, PostgreSQL
-
-### 🔧 Tools & Architecture
-*   **Version Control:** Git & GitHub
-*   **Cloud & Deploy** AWS, Google Cloud, Vercel
+**Cloud & Tools:** AWS · Google Cloud · Vercel · Cloudflare Workers · Docker · Git · GitHub Actions
 
 ---
 
 ## ⚡ A bit about me
-*  I love animals and spending time in nature.
-*  I could talk about philosophy for hours.
-*  **Some of my hobbies:** Reading, playing squash, and painting
-  
----
 
-## 🔮 Future Side Quests
-*(Currently on pause while I lock in on AI Engineering)*
-* **Interactive Front-End & Creative Coding**
+I share what I build on Instagram ([@cynthias.dev](https://www.instagram.com/cynthias.dev/)). 
+Outside tech, I love animals, nature, philosophy, reading, squash and painting.
+
+> 💡 Always open to talking about building things (or human existence).
