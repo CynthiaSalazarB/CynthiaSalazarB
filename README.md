@@ -1,6 +1,7 @@
 # Hola Tú, I'm Cynthia 👋
 
-**Full Stack & AI Engineer** building LLM applications in TypeScript and Python, from tool-calling agents to the evals that check them.
+**Full Stack & AI Engineer.** I enjoy building LLM applications in TypeScript and Python, especially agents and the evals that check them, to automate repetitive tasks.
+
 I like to question how things (and life!) work 👀
 
 🎓 Graduating from Seneca Polytechnic in December 2026
